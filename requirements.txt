@@ -1,5 +1,6 @@
 streamlit==1.14.0
 yfinance==0.2.18
 google-cloud-language==2.17.0
-pandas==1.5.3
+pandas==1.50
 xlsxwriter==3.0.2
+numpy==1.23.0
